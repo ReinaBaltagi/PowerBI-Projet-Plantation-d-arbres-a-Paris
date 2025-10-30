@@ -1,4 +1,4 @@
-# PowerBI-Projet-Plantation-d-arbres-a-Paris
+# PowerBI- Projet de plantation d'arbres à Paris
 Ce projet permet de visualiser les projets de plantation d'arbres à Paris, à partir d'une base de données publique disponible sur le site Data Paris :
 https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information/
 
